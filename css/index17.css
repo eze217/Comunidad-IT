@@ -1,0 +1,19 @@
+body{
+    font-family: arial;
+    font-size: 12px;
+}
+
+h1{
+    color: gray;
+}
+
+p{
+    line-height: 16px;
+}
+
+.espacios-letras{
+    letter-spacing: 1px;
+}
+.espacios-palabras{
+    word-spacing: 5px;
+}

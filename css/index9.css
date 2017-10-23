@@ -1,0 +1,16 @@
+body{
+   font-family:arial;
+}
+h1 {
+    color: rgb(255, 0, 0);
+    font-family: fantasy;
+}
+h2,h3{
+    font-family: cursive;
+}
+h2{
+    color: #ff0000
+}
+h3{
+    color: #bbb
+}
