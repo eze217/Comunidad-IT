@@ -1,0 +1,23 @@
+p::selection{
+    background-color: pink;
+    color: white;
+    font-weight: bold;
+}
+
+p::first-letter{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+    
+}
+
+p::first-line{
+    font-style: italic;    
+}
+p::after{
+    content: "FIN DE LA FIESTA";
+    color: red;
+    font-weight: bold;
+
+}
