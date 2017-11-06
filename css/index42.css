@@ -1,0 +1,10 @@
+#contenedor{
+    background-color: #e9e5e5;
+    display: inline-block;
+    width: 400px;
+}
+
+
+button{
+    margin: 10px 0px 10px 80%;
+}
